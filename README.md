@@ -4,4 +4,5 @@ Our online ticketing system support login in by different authority. Customers c
 We mainly: 
 
 • Designed and implemented a ticketing database system on Amazon RDS using E/R Diagrams and SQL schema
+
 • Realized a front-end website in HTML/CSS, JavaScript and used PHP to dynamically interact with back-end database
